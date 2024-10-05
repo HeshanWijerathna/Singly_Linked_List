@@ -39,7 +39,8 @@ The project contains the following Java files:
 ### Step 1: Download the Project Files from GitHub
 
 1. Download the project as a ZIP from the repository.
-2. Extract the files to a folder on your computer.
+2. Go to the GitHub repository, click on the Code button, and choose Download ZIP.
+3. Extract the files to a folder on your computer.
 
 ### Step 2: Set Up VS Code
 
