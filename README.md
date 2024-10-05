@@ -129,7 +129,7 @@ Heshan
 ```
 
 ### Step 7: Exiting the Program
-To exit the program, choose option 8 from the menu.
+To exit the program, choose option 9 from the menu.
 
 ## Troubleshooting
 Java Not Detected: Ensure Java is installed and added to your system's PATH environment variable.
