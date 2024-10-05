@@ -132,6 +132,6 @@ Heshan
 To exit the program, choose option 9 from the menu.
 
 ## Troubleshooting
-Java Not Detected: Ensure Java is installed and added to your system's PATH environment variable.
-Run Button Not Visible: Ensure the Java Extension Pack is installed in VS Code. If the Run button doesn't appear, press Ctrl + F5 to run the program.
-No Output in Terminal: Ensure the terminal is open in VS Code by selecting Terminal > New Terminal.
+- Java Not Detected: Ensure Java is installed and added to your system's PATH environment variable.
+- Run Button Not Visible: Ensure the Java Extension Pack is installed in VS Code. If the Run button doesn't appear, press Ctrl + F5 to run the program.
+- No Output in Terminal: Ensure the terminal is open in VS Code by selecting Terminal > New Terminal.
