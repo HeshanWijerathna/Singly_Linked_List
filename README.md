@@ -87,6 +87,8 @@ Select an option:
 8. Size of the List
 9. Exit
 
+You can select any option by entering the corresponding number and following the prompts.
+
 ## Example Interaction.
 ```bash
 Select an option:
@@ -125,7 +127,6 @@ Shehara
 Sathsarani
 Heshan
 ```
-You can select any option by entering the corresponding number and following the prompts.
 
 ### Step 7: Exiting the Program
 To exit the program, choose option 8 from the menu.
