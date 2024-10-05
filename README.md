@@ -76,7 +76,6 @@ Before starting, install the following extensions in VS Code:
 
 Once the program runs, a menu will appear in the terminal:
 
-```bash
 Select an option:
 1. Insert at Start
 2. Insert at End
@@ -88,6 +87,8 @@ Select an option:
 8. Size of the List
 9. Exit
 
+## Example Interaction.
+```bash
 Select an option:
 1. Insert at Start
 2. Insert at End
