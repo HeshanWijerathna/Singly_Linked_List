@@ -1,4 +1,3 @@
-# Singly_Linked_List
 # Singly Linked List Implementation in Java
 
 ## Overview
